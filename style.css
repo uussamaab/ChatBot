@@ -143,3 +143,14 @@ footer{
     background: -ms-linear-gradient(top, #7abcff 0%,#60abf8 44%,#4096ee 100%); /* IE10+ */
     background: linear-gradient(top, #7abcff 0%,#60abf8 44%,#4096ee 100%); /* W3C */
 }
+
+<style>
+  df-messenger {
+   --df-messenger-bot-message: #878fac;
+   --df-messenger-button-titlebar-color: #df9b56;
+   --df-messenger-chat-background-color: #fafafa;
+   --df-messenger-font-color: white;
+   --df-messenger-send-icon: #878fac;
+   --df-messenger-user-message: #479b3d;
+  }
+</style>
